@@ -1,0 +1,6 @@
+step 1 - npm init -y
+step 2 - npm install -D tailwindcss autoprefixer vite
+step 3 - npx tailwindcss init -p
+step 4 - tailwind.config.js content = ["*"]
+step 5 - package.json script {"start":"vite"}
+step 6 - in terminal write npm run start
